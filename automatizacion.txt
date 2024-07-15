@@ -1,1 +1,2 @@
-add  "Hoy hace un calor de locas" 
+"Este es el contenido inicial del documento (modificado)" 
+"Linea a¤adida en el documento original." 
